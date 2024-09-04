@@ -1,4 +1,4 @@
-#Proyecto Criptografía
+<h1>Proyecto Criptografía<h1/>
 
 Realización de Notebook de jupyter enfocado al conocimiento e implementación de la Criptografía de las Curvas Elípticas (ECC), tiene todo el conocimiento e implementación básico para la comprensión del tema. Los ejemplos practicos de curvas especificas no funcionan por la complejidad computacional de conseguir varios puntos (Lo cual muestra su fortaleza).
 
